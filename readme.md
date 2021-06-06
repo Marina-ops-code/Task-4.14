@@ -8,19 +8,20 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Table of contents:
-1. [git add](./add.md)
-2. [git config](./config.md)
-3. [git init](./init.md)
-4. [git commit](./commit.md)
-5. [git clone](./clone.md)
-6. [git remote add](./remoteadd.md)
-7. [git fetch](./fetch.md)
-8. [git merge](./merge.md)
-9. [git pull](./pull.md)
-10. [git push](./push.md)
-11. [git status](./status.md)
-12. [git log](./log.md)
-13. [git show](./show.md)
+1. [GIT What is it?](./git.md)
+2. [git add](./add.md)
+3. [git config](./config.md)
+4. [git init](./init.md)
+5. [git commit](./commit.md)
+6. [git clone](./clone.md)
+7. [git remote add](./remoteadd.md)
+8. [git fetch](./fetch.md)
+9. [git merge](./merge.md)
+10. [git pull](./pull.md)
+11. [git push](./push.md)
+12. [git status](./status.md)
+13. [git log](./log.md)
+14. [git show](./show.md)
 
 
 
